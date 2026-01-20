@@ -15,3 +15,5 @@ A Streamlit-based CGPA calculator following the SRM grading system.
 
 ### Deployment
 Hosted using Streamlit Cloud.
+
+Link: https://srm-cgpa-calculator-en32rrgkntu33dh7lizs7k.streamlit.app/
