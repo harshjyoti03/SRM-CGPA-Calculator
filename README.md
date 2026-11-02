@@ -1,4 +1,4 @@
-# 🎓 SRM CGPA Calculator
+# SRM CGPA Calculator
 
 A Streamlit-based CGPA calculator following the SRM grading system.
 
